@@ -10,6 +10,14 @@
   Also mess around with computer vision, just because I think it's cool.
 </p>
 
+<h3 align="center">Hit me up if you want to level up your business</h3>
+
+<p align="center">
+  🇧🇷 +55 (41) 98720-3883<br />
+  📧 <a href="mailto:chapelinpedro@gmail.com">chapelinpedro@gmail.com</a><br />
+  🌐 <a href="https://chapelin.com.br">chapelin.com.br</a>
+</p>
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amalra1/amalra1/output/github-snake-dark.svg" />
